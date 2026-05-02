@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+TAREAS.md
 
 # Editor directories and files
 .vscode/*
