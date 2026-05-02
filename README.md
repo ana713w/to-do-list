@@ -176,17 +176,4 @@ La aplicación sigue una arquitectura basada en **Context API** para manejar el 
 
 Esto permite una separación clara entre lógica y presentación, facilitando el testing y mantenimiento.
 
----
 
-## 🚀 Deployment
-
-La aplicación puede desplegarse fácilmente en:
-- **Vercel** - Recomendado para máximo rendimiento
-- **Netlify** - Alternativa confiable
-- Cualquier servicio que soporte hosting estático
-
----
-
-## 📄 Licencia
-
-Este proyecto está bajo licencia MIT.
